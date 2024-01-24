@@ -24,24 +24,12 @@ Data Analysis
 Machine Learning Models
 
 Implemented various machine learning models for loan prediction:
-
-Decision Tree:
-Identified key decision nodes, achieving an accuracy of 92.31%.
-
-Logistic Regression:
-Achieved an accuracy of 92.34%.
-
-Random Forest Classification:
-Accuracy of 92.31%, with a confusion matrix indicating a good fit.
-
-Support Vector Machine (SVM):
-Achieved an accuracy of 92.31%, with a perfect confusion matrix.
-
-K-Nearest Neighbors (KNN):
-Accuracy of 92.1%, with some limitations in prediction.
-
-Gradient Boosting Regression Model:
-Evaluation of mean square error, indicating the model's performance.
+1. Decision Tree: Identified key decision nodes, achieving an accuracy of 92.31%.
+2. Logistic Regression: Achieved an accuracy of 92.34%.
+3. Random Forest Classification: Accuracy of 92.31%, with a confusion matrix indicating a good fit.
+4. Support Vector Machine (SVM): Achieved an accuracy of 92.31%, with a perfect confusion matrix.
+5. K-Nearest Neighbors (KNN): Accuracy of 92.1%, with some limitations in prediction.
+6. Gradient Boosting Regression Model: Evaluation of mean square error, indicating the model's performance.
 
 Model Evaluation and Comparison
 1. ROC Curve and AUC values for each model.
